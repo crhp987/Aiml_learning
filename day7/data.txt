@@ -1,0 +1,7 @@
+hello,this is my first cretes file handling.
+this is my first internship of comedkares.
+comedkares located in mysore.
+this line is appended using append mode.
+file handling is easy.
+Name: poornima
+course: CSE
